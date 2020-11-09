@@ -1,5 +1,5 @@
 ## LavMarxMang 
-This is a bookmark management platform written with Laravel and Axio. Made use of Postgresql as Database Engine instead of Laravel's default(Sql) 
+This is a bookmark management platform written with Laravel and Axios. Made use of Postgresql as Database Engine instead of Laravel's default(Sql) 
 The setup is easy thanks to the wonderful laravel documentation.
 
 
